@@ -43,6 +43,7 @@ You can run the application using `npm run dev` or directly with Node.js. The ap
 2. **Input:**
 
    Enter the local path or public URL of the file you want to analyze. Supported file formats are `.txt` and `.docx`.
+   As url you can use "//https://filesamples.com/samples/document/docx/sample3.docx" for testing purposes.
 
 3. **Output:**
 
